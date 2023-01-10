@@ -1,0 +1,130 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+
+}
+.Q{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 450;
+    padding: 25px;
+}
+.W{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+    
+}
+.E >img{
+border:1px solid grey;
+height: 510px;
+width:355px;
+
+}
+.E{
+    padding: 20px;
+}
+.R{
+    margin-top:28px;
+   
+}
+
+.R>h5{
+    color: grey;
+    padding: 12px;
+}
+.R>img{
+    height: 32px;
+    width:160px;
+    padding: 12px;
+}
+.T{
+    display: flex;
+    flex-direction: row;
+  
+}
+.T>h2{
+padding: 5px;
+font-size: 19px;
+}
+.T>del{
+    padding: 6px;
+    margin-top: 2px;
+    }
+    .T>h1{
+        padding: 6px;
+        color: green;
+font-size: 19px;
+        }
+            .Y,.U {
+                display: flex;
+                flex-direction: row;
+                font-size: 19px;
+                
+            }
+
+            .Y >p{
+                padding: 2px;
+            
+            }
+            
+            .U >p{
+                padding: 2px;
+            }
+            
+            .I{
+                display: flex;
+                flex-direction: row;
+            }
+            .I >p{
+                font-size: 19px;
+            }
+            .O >form{
+                display: flex;
+                flex-direction: row;
+            width: 260px;
+                justify-content: space-between;
+                margin-left:11px;
+            }
+            .O >input{
+                padding: 6px;
+            }
+.R>.T,.Y,.U,.I,.P,.B,.A {
+    padding: 5px;
+  
+}
+.R >img{
+    margin-left:-14px;
+}
+.T,.Y,.U,.I,.P,.B,.A{
+    margin-left:15px;
+}
+.R >h1{
+    margin-left:15px;
+    padding: 4px;
+}
+.R >h5{
+    margin-left:16px;
+}
+.A >input{
+    padding: 3px 8px;
+    font-size: 13px;
+    font-weight: 500;
+    color: black ;
+    border: 2px solid grey ;
+    border-radius: 3px;
+   background-color: white;
+   margin-left: 2vh;
+}
+.A >input:hover{
+    background-color: rgb(55, 14, 14);
+    color: white;
+    border-color: rgb(52, 11, 11);
+}
+.P{
+    display: flex;
+    flex-direction: row;
+}
+
